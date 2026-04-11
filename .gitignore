@@ -1,0 +1,16 @@
+venv/
+Dataset/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+neww.JPG
+new.png
+*.ipynb
+trained_plant_disease_model.keras
+new folder/
+test/
+settings.json
+convert_model.py
+live_prediction.py
+training_hist.json
+echo "*.lnk" >> .gitignore
